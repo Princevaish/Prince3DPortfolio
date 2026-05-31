@@ -38,32 +38,23 @@ function LangChainIcon() {
 }
 
 function PostgreSQLIcon() {
-  const head  = 'M32 10 C20 10 13 18 13 28 C13 38 18 44 26 46 L26 52 C26 54 28 55 30 54 L30 48 C30.5 48.1 31.2 48.2 32 48.2 C32.8 48.2 33.5 48.1 34 48 L34 54 C34 55 36 54 36 52 L36 46 C44 44 51 38 51 28 C51 18 44 10 32 10Z';
-  const earLO = 'M13 28 C13 20 7 14 10 26 C11 30 13 32 13 32';
-  const earLI = 'M13 28 C13 22 10 17 12 25 C12.5 28 13 30 13 30';
-  const earRO = 'M51 28 C51 20 57 14 54 26 C53 30 51 32 51 32';
-  const earRI = 'M51 28 C51 22 54 17 52 25 C51.5 28 51 30 51 30';
-  const tuskL = 'M26 46 C22 48 19 47 20 51 C21 54 25 53 27 50';
-  const tuskR = 'M36 46 C40 48 43 47 42 51 C41 54 37 53 35 50';
-  const knot1 = 'M27 11 C28 6 32 4 32 4 C32 4 36 6 37 11';
-  const knot2 = 'M30 10 C30 6 32 3 32 3';
-  const nose  = 'M29 30 C29 33 31 35 32 35 C33 35 35 33 35 30';
-  const brow  = 'M24 20 C26 18 30 17 32 17 C34 17 38 18 40 20';
   return (
-    <svg viewBox="0 0 64 64" fill="none" width="52" height="52" xmlns="http://www.w3.org/2000/svg" stroke="white" strokeLinecap="round" strokeLinejoin="round">
-      <path d={head}  strokeWidth="2.4" fill="none" />
-      <path d={earLO} strokeWidth="2.4" fill="none" />
-      <path d={earLI} strokeWidth="1.4" fill="none" strokeOpacity="0.6" />
-      <path d={earRO} strokeWidth="2.4" fill="none" />
-      <path d={earRI} strokeWidth="1.4" fill="none" strokeOpacity="0.6" />
-      <path d={tuskL} strokeWidth="2.2" fill="none" />
-      <path d={tuskR} strokeWidth="2.2" fill="none" />
-      <path d={knot1} strokeWidth="2"   fill="none" />
-      <path d={knot2} strokeWidth="1.6" fill="none" />
-      <circle cx="25" cy="26" r="2.2" fill="white" stroke="none" />
-      <circle cx="39" cy="26" r="2.2" fill="white" stroke="none" />
-      <path d={nose}  strokeWidth="1.6" fill="none" />
-      <path d={brow}  strokeWidth="1.4" fill="none" strokeOpacity="0.7" />
+    <svg
+      viewBox="0 0 128 128"
+      width="52"
+      height="52"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        fill="white"
+        d="M64.2 8c-24.4 0-44.2 18.7-44.2 41.8 0 13.6 6.9 25.7 17.6 33.3
+        1.3 10.7 5.8 22.8 14.4 22.8 4.8 0 8.6-2.2 11.5-5.3v18.8
+        c0 4.7 3.8 8.6 8.5 8.6s8.5-3.9 8.5-8.6V95.7c2.8 2.7 6.2 4.4
+        10.6 4.4 9.7 0 15.4-12.4 16.8-23.9 10.3-7.6 16.8-19.4 16.8-32.4
+        0-23.1-19.8-41.8-44.5-41.8z"
+      />
+      <circle cx="49" cy="49" r="4.5" fill="#0C0C0C" />
+      <circle cx="79" cy="49" r="4.5" fill="#0C0C0C" />
     </svg>
   );
 }

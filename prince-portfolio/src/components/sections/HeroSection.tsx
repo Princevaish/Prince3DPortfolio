@@ -11,7 +11,7 @@ export function HeroSection() {
   const navRef      = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const tl = gsap.timeline({ defaults: { ease: [0.25, 0.1, 0.25, 1] } });
+    const tl = gsap.timeline({ defaults: { ease: 'cubic-bezier(0.25, 0.1, 0.25, 1)' } });
 
     // 1. Heading — fade + slide up (delay 0.15s)
     tl.fromTo(
