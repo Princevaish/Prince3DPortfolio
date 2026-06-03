@@ -55,3 +55,10 @@ Modern cinematic UI/UX engineered using React, Framer Motion, GSAP, and immersiv
 ---
 
 # About Me
+
+## Prince Vaish
+
+AI Backend Engineer & Full Stack AI Developer
+
+I specialize in building:
+Built with modern frontend engineering, cinematic motion systems, and scalable AI-focused product storytelling.
