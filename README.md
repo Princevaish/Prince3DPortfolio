@@ -61,4 +61,44 @@ Modern cinematic UI/UX engineered using React, Framer Motion, GSAP, and immersiv
 AI Backend Engineer & Full Stack AI Developer
 
 I specialize in building:
-Built with modern frontend engineering, cinematic motion systems, and scalable AI-focused product storytelling.
+
+- scalable AI-powered applications
+- backend-intensive SaaS systems
+- AI orchestration workflows
+- LangChain & LangGraph systems
+- RAG pipelines
+- AI agents
+- intelligent automation systems
+- production-grade APIs
+- vector search architectures
+- conversational AI systems
+
+My engineering focus revolves around combining:
+
+- backend scalability
+- AI system orchestration
+- modern frontend engineering
+- production architecture
+- developer experience
+- high-performance UI systems
+
+---
+
+# Core Portfolio Features
+
+## Cinematic Hero Experience
+
+- immersive animated hero section
+- layered motion choreography
+- premium typography system
+- cinematic scroll transitions
+- interactive entrance animations
+
+---
+
+## Motion Engineering System
+
+- GSAP-powered animation sequences
+- Framer Motion orchestration
+- smooth transition pipelines
+- conversational AI
