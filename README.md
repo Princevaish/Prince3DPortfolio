@@ -101,4 +101,25 @@ My engineering focus revolves around combining:
 - GSAP-powered animation sequences
 - Framer Motion orchestration
 - smooth transition pipelines
-- conversational AI
+- motion-based storytelling
+- scroll-synced UI behavior
+
+---
+
+## Sticky Project Showcase
+
+- stacked project interactions
+- immersive project navigation
+- progressive reveal animations
+- recruiter-focused project storytelling
+
+---
+
+## Magnetic UI Interactions
+
+- magnetic hover systems
+- responsive cursor interactions
+- premium button feedback
+- motion-enhanced UX details
+
+---
