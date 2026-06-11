@@ -123,3 +123,75 @@ My engineering focus revolves around combining:
 - motion-enhanced UX details
 
 ---
+---
+
+AI-powered ATS optimization and resume intelligence platform.
+
+### Technologies
+
+- NLP pipelines
+- AI document intelligence
+- semantic analysis
+- resume parsing
+
+### Engineering Focus
+
+- ATS optimization systems
+- document intelligence
+- NLP engineering
+
+---
+
+# 6. OmniMind AI
+
+### Agentic AI Orchestration Platform
+
+Multi-agent AI orchestration platform integrating conversational workflows, automation pipelines, and intelligent tool interactions.
+
+### Technologies
+
+- LangGraph
+- AI Agents
+- LangChain
+- workflow orchestration
+
+### Engineering Focus
+
+- agentic architectures
+- AI workflow systems
+- multi-agent orchestration
+
+---
+
+# 7. LexVault
+
+### AI Legal Intelligence Platform
+
+AI-powered legal document intelligence system using semantic retrieval and conversational AI.
+
+### Technologies
+
+- RAG pipelines
+- vector databases
+- semantic search
+- conversational AI
+
+### Engineering Focus
+
+- legal AI systems
+- semantic retrieval
+- AI document intelligence
+
+---
+
+# Motion & UI Highlights
+
+## Premium Motion System
+
+- cinematic scroll choreography
+- smooth scene transitions
+- interaction-driven storytelling
+- layered animation systems
+
+---
+
