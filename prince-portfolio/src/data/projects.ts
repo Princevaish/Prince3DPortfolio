@@ -101,7 +101,7 @@ export const projects: Project[] = [
     id: 'lexvault',
     number: '07',
     title: 'LexVault',
-    description: 'AI-powered legal document intelligence platform leveraging RAG pipelines, semantic vector search, and conversational AI to enable secure document analysis, intelligent retrieval, and legal workflow automation.',
+    description: 'Designed and developed LexVault, a legal document management platform that provides document versioning, automated change detection, visual diff comparison, audit tracking, and workflow notifications using FastAPI, PostgreSQL, and SQLAlchemy..',
     tech: ['FASTAPI', 'LANGCHAIN', 'RAG', 'VECTOR DBs', 'NEXT.JS', 'POSTGRESQL'],
     images: {
       col1a: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBsunETm3-X_scjJ0RqC_12BulZSgT8_pF_gcdQ3mh-ICjwUzez0bmxttxvlNQs3inU87HUP105odl702raCvk7wDcLDfKzdUfmbMyhu2G1uc83t5I83Y_n0QmX9D4iHvqZ5kUdEIManYIkFSrajdlPUwGt6Dxz3pSpx36qlXb628xf9znXNWuhPwTXkh9-yxFVBD4bslWCauDfltkoJeRM_5OM-4dakx4GnNSwOw45HUgkaCwhNzAqz9QKZXW_mfrqQ7js1KBNUw',
