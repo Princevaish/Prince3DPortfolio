@@ -102,7 +102,7 @@ export const projects: Project[] = [
     number: '07',
     title: 'LexVault',
     description: 'Designed and developed LexVault, a legal document management platform that provides document versioning, automated change detection, visual diff comparison, audit tracking, and workflow notifications using FastAPI, PostgreSQL, and SQLAlchemy..',
-    tech: ['FASTAPI', 'LANGCHAIN', 'RAG', 'VECTOR DBs', 'NEXT.JS', 'POSTGRESQL'],
+    tech: ['FASTAPI', 'POSTGRESQL', 'SQLALCHEMY', 'REST APIs', 'JAVASCRIPT', 'VERCEL', 'RENDER'],
     images: {
       col1a: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBsunETm3-X_scjJ0RqC_12BulZSgT8_pF_gcdQ3mh-ICjwUzez0bmxttxvlNQs3inU87HUP105odl702raCvk7wDcLDfKzdUfmbMyhu2G1uc83t5I83Y_n0QmX9D4iHvqZ5kUdEIManYIkFSrajdlPUwGt6Dxz3pSpx36qlXb628xf9znXNWuhPwTXkh9-yxFVBD4bslWCauDfltkoJeRM_5OM-4dakx4GnNSwOw45HUgkaCwhNzAqz9QKZXW_mfrqQ7js1KBNUw',
       col1b: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCuVjx8vD3nDc9_e2FtZireWoyBdDBStvB35LXsz53ek3JtMANuaiNHFEuL2o-4wT3GC1urdzKWmDv-1ZVeNLkJcdi4xNneBdm3krYQTsjPgDEiH-i-t7c_OzgwjpD8AK7yzwfTjxavHJJH4HeLRjADliWnCb8MU5zEuCj5P3UGtd3OinyYQglkrj-Ou2nRcOwgNdn2oKuq5wyYUzXk1rFPqYmy545Z8UgRc7ayA0S266Lj8kUSiZ9Riqd1EHe866sO_OwqHX0n-A',
