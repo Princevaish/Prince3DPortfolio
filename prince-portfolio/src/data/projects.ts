@@ -5,7 +5,7 @@ export const projects: Project[] = [
     id: 'examprep-dost',
     number: '01',
     title: 'ExamPrep Dost AI',
-    description: 'AI-powered exam preparation platform that automates generation of MCQs, summaries, flashcards, and structured study content from user-provided topics using LangChain pipelines and LLM orchestration.',
+    description: 'Developed a GenAI-powered educational platform that transforms academic topics into structured learning resources—including MCQs, summaries, smart quizzes, and tutorials—through advanced prompt engineering, LangChain workflows, and high-performance LLM inference.',
     tech: ['LANGCHAIN', 'PYTHON', 'STREAMLIT', 'PROMPT ENG', 'FPDF', 'LLM APIs'],
     images: {
       col1a: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD9p40qmRXHAH0fmAduK48_dw24bU62jprwvi_ld8g3q5_szw-yHnagwQEDmHBrMb1039vTRHT6IPJk_Gc-cbiU4iEANeSchcb_ZoHfwSu5TCJkuYLh6jgoZBif1wIRWgvzzWE5bHYzB5whBfbugNmQjf0b7-Lpla8cNUPy_6Z6RF-3yHjr0Xt3Brzh99b9hGXfeQNQUMK4IfDMro1ByLw6hpSMLIrcTuS7yjF8y3wwlb1JjtOMsVDgApl5QKk03Rs_qH__49TNJw',
