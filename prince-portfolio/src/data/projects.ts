@@ -6,7 +6,7 @@ export const projects: Project[] = [
     number: '01',
     title: 'ExamPrep Dost AI',
     description: 'Developed a GenAI-powered educational platform that transforms academic topics into structured learning resources—including MCQs, summaries, smart quizzes, and tutorials—through advanced prompt engineering, LangChain workflows, and high-performance LLM inference.',
-    tech: ['LANGCHAIN', 'PYTHON', 'STREAMLIT', 'PROMPT ENG', 'FPDF', 'LLM APIs'],
+    tech: ['PYTHON', 'DJANGO', 'POSTGRESQL', 'REDIS', 'CELERY', 'LANGCHAIN', 'GROQ API', 'LLAMA 3', 'DOCKER', 'PROMPT ENGINEERING', 'LLM ORCHESTRATION', 'GOOGLE ALLAUTH'],
     images: {
       col1a: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD9p40qmRXHAH0fmAduK48_dw24bU62jprwvi_ld8g3q5_szw-yHnagwQEDmHBrMb1039vTRHT6IPJk_Gc-cbiU4iEANeSchcb_ZoHfwSu5TCJkuYLh6jgoZBif1wIRWgvzzWE5bHYzB5whBfbugNmQjf0b7-Lpla8cNUPy_6Z6RF-3yHjr0Xt3Brzh99b9hGXfeQNQUMK4IfDMro1ByLw6hpSMLIrcTuS7yjF8y3wwlb1JjtOMsVDgApl5QKk03Rs_qH__49TNJw',
       col1b: 'https://lh3.googleusercontent.com/aida-public/AB6AXuB_cLT1lFYRYp2V2tfXhEE-p6cEXY1NlZgtG_YiU1ywbRPn5yCeo_xJ97UkfpZwmB4HncJ-I3qrFpmhuLSAZgYyajfUXGp88rE9tayV3WP1pegooBADU0sc31OuWVfyA4eheJ8vVMRJ7ITr5B6-GzFJLvesfyTTayt5tH1dkBnmvO_Drhw4_kS7C3EKoDugNv9zWm9ospH7TOLv5_FTEM4KEoel54WpkqCfVW29bPOQ9eyJ35w8kloCP4J1YFo2Tyaqh28ZxAmaqA',
