@@ -38,7 +38,7 @@ export const projects: Project[] = [
     number: '03',
     title: 'EcoScan AI',
     description: 'Environmental intelligence platform using computer vision and AI classification to analyze waste materials and drive sustainable decision-making. Full stack architecture with FastAPI backend and real-time AI prediction pipelines.',
-    tech: ['FASTAPI', 'PYTHON', 'COMPUTER VISION', 'REACT.JS', 'AI/ML MODELS', 'TAILWIND'],
+    tech: ['FASTAPI', 'PYTHON', 'COMPUTER VISION', 'REACT.JS', 'DEEP LEARNING', 'TAILWIND'],
     images: {
       col1a: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAFZwfBEldwP02Co1TTY2FXJm-uu54PCnFoxSAvOi9jmr_92XhoVxr9qOgpFtatzUytWzxQKcPucOcssrOv6h5uKm9rtxxJ2_of-Gv6KWulN1nenGlLYTfsh8lVvuBHN39LncJPaP-dVwYVKnoN1qXyXc74eaAh7UtzofvAb__UtfjTVxgigoZB71ARX2GyYSWgvk_e9Ki_Bqp-Tu8uX1GZpp1EH4OwMSiXgfLv5InVImvhM4V_w50OYoFY0fu0jZlxjWMv6e5wTQ',
       col1b: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD9p40qmRXHAH0fmAduK48_dw24bU62jprwvi_ld8g3q5_szw-yHnagwQEDmHBrMb1039vTRHT6IPJk_Gc-cbiU4iEANeSchcb_ZoHfwSu5TCJkuYLh6jgoZBif1wIRWgvzzWE5bHYzB5whBfbugNmQjf0b7-Lpla8cNUPy_6Z6RF-3yHjr0Xt3Brzh99b9hGXfeQNQUMK4IfDMro1ByLw6hpSMLIrcTuS7yjF8y3wwlb1JjtOMsVDgApl5QKk03Rs_qH__49TNJw',
