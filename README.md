@@ -67,5 +67,62 @@ The goal of this portfolio is to communicate engineering depth, product thinking
 - infrastructure-focused organizations
 
 ---
+# Featured Projects
+
+# 1. ExamPrep Dost AI
+
+### AI-Powered Educational Intelligence Platform
+
+AI-driven educational workflow platform generating:
+
+- summaries
+- MCQs
+- flashcards
+- tutorials
+- quizzes
+- study workflows
+
+### Technologies
+
+- LangChain
+- Generative AI
+- FastAPI
+- PDF generation
+- Streamlit
+- NLP pipelines
+
+### Engineering Focus
+
+- educational AI systems
+- prompt orchestration
+- scalable content generation
+- automated learning workflows
+
+---
+
+# 2. Magnet AI
+
+### AI Marketing Automation Platform
+
+AI-powered marketing automation system generating:
+
+- lead magnets
+- marketing assets
+- AI-assisted campaign content
+
+### Technologies
+
+- LLM orchestration
+- FastAPI
+- AI pipelines
+- workflow automation
+
+### Engineering Focus
+
+- AI SaaS systems
+- automated content generation
+- scalable backend workflows
+
+---
 
 Built with modern frontend engineering, cinematic motion systems, and scalable AI-focused product storytelling.
