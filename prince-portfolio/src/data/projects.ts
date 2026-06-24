@@ -68,7 +68,7 @@ export const projects: Project[] = [
   {
     id: 'vectracv',
     number: '05',
-    title: 'VectraCV',
+    title: 'VectraCV Pro',
     description: 'AI-powered resume intelligence platform that analyzes resumes, evaluates ATS compatibility, and generates optimization suggestions using NLP pipelines, vector search, and AI agent workflows.',
     tech: ['DJANGO', 'FASTAPI', 'LANGCHAIN', 'NLP', 'VECTOR SEARCH', 'POSTGRESQL', 'REACT.JS'],
     images: {
