@@ -4,7 +4,6 @@
 - Performance testing pipelines
 
 ---
-
 # Future Improvements
 
 - 3D WebGL interactions
