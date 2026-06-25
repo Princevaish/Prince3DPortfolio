@@ -70,7 +70,7 @@ export const projects: Project[] = [
     number: '05',
     title: 'VectraCV Pro',
     description: 'AI-powered resume intelligence platform that analyzes resumes, evaluates ATS compatibility, and generates optimization suggestions using NLP pipelines, vector search, and AI agent workflows.',
-    tech: ['DJANGO', 'FASTAPI', 'LANGCHAIN', 'NLP', 'VECTOR SEARCH', 'POSTGRESQL', 'REACT.JS'],
+    tech: ['DJANGO', 'FASTAPI', 'LANGCHAIN', 'NLP', 'VECTOR SEARCH', 'POSTGRESQL'],
     images: {
       col1a: 'https://lh3.googleusercontent.com/aida-public/AB6AXuATcJcy7vbfcmSfpi_DObHxElaI61WBsvUt-6BPcMv5xXlIv9xBEtiUHYThckNw4hOa8bVJ-bskWLsHp5FhaGXu-89x4F1cG6cGTVYWzzHY2QTVhtyJvu23QbOWzjk5QiQ1A94r8mPVk0QIqWOcNmxytf1tPzn_w_9Y0eoNjDwuuhgqlini3l2I_2tYYgz9ybi-75WgMj16HAPKreq7ocXnTlbCPfMIX5hYzFru4wn9tCVF1y8fxtVAOhOKsVCSiK3-t-Ze-FCuzw',
       col1b: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCuVjx8vD3nDc9_e2FtZireWoyBdDBStvB35LXsz53ek3JtMANuaiNHFEuL2o-4wT3GC1urdzKWmDv-1ZVeNLkJcdi4xNneBdm3krYQTsjPgDEiH-i-t7c_OzgwjpD8AK7yzwfTjxavHJJH4HeLRjADliWnCb8MU5zEuCj5P3UGtd3OinyYQglkrj-Ou2nRcOwgNdn2oKuq5wyYUzXk1rFPqYmy545Z8UgRc7ayA0S266Lj8kUSiZ9Riqd1EHe866sO_OwqHX0n-A',
